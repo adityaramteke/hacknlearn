@@ -1,2 +1,3 @@
 # hacknlearn
-Python Basic to advance programs 
+
+Python Pune Meetup Sample Programs.
