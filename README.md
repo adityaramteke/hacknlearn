@@ -1,3 +1,5 @@
-# hacknlearn
+# Hack and Learn.
 
-Python Pune Meetup Sample Programs.
+Python Pune Meetup.
+
+Slide: http://slides.com/adityaramteke/hacknlearn#/
